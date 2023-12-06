@@ -1,0 +1,14 @@
+---
+:id: 99947272
+:submitters:
+- :name: Zachary Gong
+  :email: zacgong@seas.upenn.edu
+- :name: Andreas Alexandrou
+  :email: aandreas@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-11-12 21:26:30.315207000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-12 13:26:30.315207000 Z
+:status: processed
+:score: 20.0
